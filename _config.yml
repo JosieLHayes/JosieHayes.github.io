@@ -202,6 +202,7 @@ defaults:
       type: pages
     values:
       layout: single
+      show-avatar: true
       author_profile: true
   # _teaching
   - scope:
@@ -218,6 +219,7 @@ defaults:
       type: publications
     values:
       layout: single
+      show-avatar: true
       author_profile: true
       share: true
       comments: true
