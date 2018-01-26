@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Hayes J, Yu Y, Jalbert LE, Mazor T, Jones LE, Wood MD, Walsh KM, Bengtsson H, Hong C, Oberndorfer S, Roetzer T, Smirnov IV, Clarke JL, Aghi MK, Chang SM, Nelson SJ, Woehrer A, Phillips JJ, Solomon D, Costello JF. Genomic analysis of the origins and evolution of multicentricdiffuse lower-grade gliomas. Neuro Oncol. 2017 Oct 25
+Hayes J, Yu Y, Jalbert LE, Mazor T, Jones LE, Wood MD, Walsh KM, Bengtsson H, Hong C, Oberndorfer S, Roetzer T, Smirnov IV, Clarke JL, Aghi MK, Chang SM, Nelson SJ, Woehrer A, Phillips JJ, Solomon D, Costello JF. Genomic analysis of the origins and evolution of multicentric diffuse lower-grade gliomas. Neuro Oncol. 2017 Oct 25
 
 Mazor T., Chesnelong C., Pankov A., Jalbert LE., Hong C., Hayes J., Smirnov IV., Marshall R., Souza C., Shen Y., Viswanath P., Noushmehr H., Ronen SM., Jones SJ., Marra MA., Cairncross JG, Perry A., Nelson SJ., Chang SM., Bollen AW., Molinaro AM., Bengtsson H., Olshen AB, Weiss S., Phillips JJ., Luchman HA., Costello JF. PNAS 2017 114(40):10743-10748. 
 
