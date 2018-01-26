@@ -30,8 +30,4 @@ Hayes JL, Tzika A, Thygesen H, Berri S, Wood HM, Hewitt S, et al. Diagnosis of c
 
 Hope IA, Stevens J, Garner A, Hayes J, Cheo DL, Brasch MA, et al. Feasibility of genome-scale construction of promoter::reporter gene fusions for expression in Caenorhabditis elegans using a multisite gateway recombination system. Genome Research. 2004;14:2070–5. 
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
