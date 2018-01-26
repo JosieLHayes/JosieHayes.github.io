@@ -29,10 +29,10 @@ School of Public Health, UC Berkeley (Nov 2017 – Present). Advisors Dr. Stephe
 
 Department of Neurological Surgery, UCSF (Oct 2015 – Nov 2017). Advisor Dr. Joseph Costello.
 * Identification of tumor –associated neoantigens in low-grade glioma in collaboration with Dr. Hideho Okada, UCSF. NCI-funded P01 project.
-* Design of a targeted glioblastoma screen for *TERT*-interacting proteins in vivo. Collaboration with Dr. Jennifer Doudna, UC Berkeley. 
+* Design of a targeted glioblastoma screen for TERT-interacting proteins in vivo. Collaboration with Dr. Jennifer Doudna, UC Berkeley. 
 * Demonstrated the presence of novel perivascular cancer-associated fibroblasts in glioma. Manuscript expected 2018 (first author).
-* Revealed a multiverse model of tumor evolution in *IDH*-mutated multicentric glioma, published in Neuro-oncology, 2017.
-* Discovery that mutant *IDH1* can be lost during malignant progression. Published in PNAS 2017. R01-funded project.
+* Revealed a multiverse model of tumor evolution in IDH-mutated multicentric glioma, published in Neuro-oncology, 2017.
+* Discovery that mutant IDH1 can be lost during malignant progression. Published in PNAS 2017. R01-funded project.
 * Identification of the reversal of replicative immortality in *TERT* promoter-mutant glioblastoma by reduction of a GABP isoform. Manuscript under revisions (co-author).
 
 
