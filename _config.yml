@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Josie Hayes"
-  avatar           : "photo.jpg"
+  avatar           : "photo.png"
   bio              : "Postdoctoral researcher at UC Berkeley currently developing pipelines for liquid chromatography mass spectrometry for detection of adduct and metabolite differences."
   location         : "Berkeley, California"
   employer         :
