@@ -23,13 +23,17 @@ Professional positions
   
 Research experience
 ======
-Department of Neurological Surgery, UCSF (Oct 2015 – present). Advisor Dr. Joseph Costello.
+School of Public Health, UC Berkeley (Nov 2017 – Present). Advisors Dr. Stephen Rappaport and Dr. Sandrine Dudoit
+* Development of bioinformatic and statistical pipelines of LC-MS data for adductomics and metabolomics for cancer specimens.
+
+
+Department of Neurological Surgery, UCSF (Oct 2015 – Nov 2017). Advisor Dr. Joseph Costello.
 * Identification of tumor –associated neoantigens in low-grade glioma in collaboration with Dr. Hideho Okada, UCSF. NCI-funded P01 project.
 * Design of a targeted glioblastoma screen for *TERT*-interacting proteins in vivo. Collaboration with Dr. Jennifer Doudna, UC Berkeley. 
 * Demonstrated the presence of novel perivascular cancer-associated fibroblasts in glioma. Manuscript expected 2018 (first author).
-* Revealed a multiverse model of tumor evolution in IDH-mutated multicentric glioma, published in Neuro-oncology, 2017.
-* Discovery that mutant IDH1 can be lost during malignant progression. Published in PNAS 2017. R01-funded project.
-* Identification of the reversal of replicative immortality in TERT promoter-mutant glioblastoma by reduction of a GABP isoform. Manuscript under revisions (co-author).
+* Revealed a multiverse model of tumor evolution in *IDH*-mutated multicentric glioma, published in Neuro-oncology, 2017.
+* Discovery that mutant *IDH1* can be lost during malignant progression. Published in PNAS 2017. R01-funded project.
+* Identification of the reversal of replicative immortality in *TERT* promoter-mutant glioblastoma by reduction of a GABP isoform. Manuscript under revisions (co-author).
 
 
 Leeds Institute of Cancer and Pathology, University of Leeds (Oct 2012 – Sept 2015). This work was funded through a Yorkshire Cancer Research fellowship. Advisors Dr. David Westhead and Dr. Susan Short. External advisor Dr. Sean Lawler, Harvard Medical School.
@@ -40,7 +44,7 @@ Leeds Institute of Cancer and Pathology, University of Leeds (Oct 2012 – Sept 
 
 Translational Genomics Unit, University of Leeds (2010-2015). Advisor Dr. Graham Taylor.
 * Next generation sequencing pipeline (bioinformatics and wet-lab) for the detection of copy number changes in patients with learning difficulties. Publication in Genomics, 2012. This resulted in a diagnostic service to the patients of Yorkshire, UK.
-* Detection of EGFR mutations and ALK rearrangements in non-small cell lung cancer. This resulted in a diagnostic service to the patients of Yorkshire, UK.
+* Detection of *EGFR* mutations and *ALK* rearrangements in non-small cell lung cancer. This resulted in a diagnostic service to the patients of Yorkshire, UK.
 
 
 Yorkshire Regional Genetics Laboratory and Leeds Institute of Molecular Medicine, St James’s University Hospital (2005-2010)
