@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a postdoctoral researcher in the Division of Epidemiology and Biostatistics, School of Public Health, UC Berkeley. My career aim is to develop biomarkers for early detection and diagnosis of cancer, and find interventions for cancer treatment and prevention.  My background is as a geneticist and bioinformatician, and I am keen to integrate big omic data of multiple types in order to form strong predictive algorithms using AI. I am currently developing bioinformatic and statistical pipelines for the analysis of liquid chromatography mass spectrometry to determine alterations of protein adducts and metabolites in newborn dried blood spots from case controls samples. 
+I’m a postdoctoral researcher in the Division of Epidemiology and Biostatistics, School of Public Health at UC Berkeley. My career aim is to develop biomarkers for early detection and diagnosis of cancer, and find interventions for cancer treatment and prevention.  My background is as a geneticist and bioinformatician, and I am keen to integrate big omic data of multiple types in order to form strong predictive algorithms using AI. I am currently developing bioinformatic and statistical pipelines for the analysis of liquid chromatography mass spectrometry to determine alterations of protein adducts and metabolites in newborn dried blood spots from case controls samples. 
 
 Between my PhD and Masters I was a Clinical Scientist in the UK. This privileged role provided me with extensive experience handling and storing patient level samples and data, and generating bioinformatic pipelines robust for the clinic. I now live in the US where the title is not honored, but this knowledge has been invaluable in directing my future research. 
 
