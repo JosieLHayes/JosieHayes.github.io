@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 Preprints
-Data-adaptive pipeline for filtering and normalizing metabolomics data. BioRxiv. https://doi.org/10.1101/387365
+Schiffman et al. 2018 Data-adaptive pipeline for filtering and normalizing metabolomics data. BioRxiv. https://doi.org/10.1101/387365
 
-adductomicsR: A package for detection and quantification of protein adducts from mass spectra of tryptic digests. BioRxiv. doi: https://doi.org/10.1101/463331
+Hayes et al. 2018 adductomicsR: A package for detection and quantification of protein adducts from mass spectra of tryptic digests. BioRxiv. doi: https://doi.org/10.1101/463331
 
 Peer Reviewed
 
