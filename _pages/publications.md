@@ -4,13 +4,22 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Mancini A, Xavier-Magalhaes A, Woods WS, Nguyen KT, Amen, AM, Hayes JL, Fellman C, Gapinske M, McKinney AM, Hong C, Jones LE, Walsh KM, Nell RJA, Doudna JA, Costa BM, Song JS, Perez-Pinera P, Costello JF. Disruption of the β1L Isoform of GABP Reverses Glioblastoma Replicative Immortality in a TERT Promoter Mutation-Dependent Manner. Cancer Cell 2018 34(3). 
+Preprints
+Data-adaptive pipeline for filtering and normalizing metabolomics data. BioRxiv. https://doi.org/10.1101/387365
+
+adductomicsR: A package for detection and quantification of protein adducts from mass spectra of tryptic digests. BioRxiv. doi: https://doi.org/10.1101/463331
+
+Peer Reviewed
+
+Thorne JL, Battaglia S, Baxter DE, Hayes JL, Hutchinson SA, Janace S, Millican-Slater RA, Smith L, Teske MC, Wastall LM, Hughes TA. MiR-19b non-canonical binding is directed by HuR and confers chemosensitivity through regulation of P-glycoprotein in breast cancer. BBA - Gene Regulatory Mechanisms. 2018 1861(11). PMID: 30343695 
+
+Mancini A, Xavier-Magalhaes A, Woods WS, Nguyen KT, Amen, AM, Hayes JL, Fellman C, Gapinske M, McKinney AM, Hong C, Jones LE, Walsh KM, Nell RJA, Doudna JA, Costa BM, Song JS, Perez-Pinera P, Costello JF. Disruption of the β1L Isoform of GABP Reverses Glioblastoma Replicative Immortality in a TERT Promoter Mutation-Dependent Manner. Cancer Cell 2018 34(3). PMID: 30205050
 
 Ricklefs FL, Alayo Q, Krenzlin H, Mahmoud AB, Speranza MC, Nakashima H, Hayes JL, Lee K, Balaj L, Passaro C, Rooj AK, Krasemann S, Carter BS, Chen CC, Steed T, Treiber J, Rodig S, Yang K, Nakano I, Lee H, Weissleder R, Breakefield XO, Godlewski J, Westphal M, Lamszus K, Freeman GJ, Bronisz A, Lawler SE, Chiocca EA. Immune evasion mediated by PD-L1 on glioblastoma-derived extracellular vesicles.  Science Advances 2018 4(3): eaar2766. PMID: 29532035
 
 Edmands WMB, Hayes J, Rappaport SM. SimExTargId: A comprehensive package for real-time LC-MS data acquisition and analysis. Bioinformatics 2018. PMID: 29790936
 
-Hayes J, Yu Y, Jalbert LE, Mazor T, Jones LE, Wood MD, Walsh KM, Bengtsson H, Hong C, Oberndorfer S, Roetzer T, Smirnov IV, Clarke JL, Aghi MK, Chang SM, Nelson SJ, Woehrer A, Phillips JJ, Solomon D, Costello JF. Genomic analysis of the origins and evolution of multicentric diffuse lower-grade gliomas. Neuro Oncol. 2017 Oct 25
+Hayes J, Yu Y, Jalbert LE, Mazor T, Jones LE, Wood MD, Walsh KM, Bengtsson H, Hong C, Oberndorfer S, Roetzer T, Smirnov IV, Clarke JL, Aghi MK, Chang SM, Nelson SJ, Woehrer A, Phillips JJ, Solomon D, Costello JF. Genomic analysis of the origins and evolution of multicentric diffuse lower-grade gliomas. Neuro Oncol. 2017. PMID: 29077933
 
 Mazor T., Chesnelong C., Pankov A., Jalbert LE., Hong C., Hayes J., Smirnov IV., Marshall R., Souza C., Shen Y., Viswanath P., Noushmehr H., Ronen SM., Jones SJ., Marra MA., Cairncross JG, Perry A., Nelson SJ., Chang SM., Bollen AW., Molinaro AM., Bengtsson H., Olshen AB, Weiss S., Phillips JJ., Luchman HA., Costello JF. PNAS 2017 114(40):10743-10748. 
 
