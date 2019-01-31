@@ -12,6 +12,8 @@ Hayes et al. 2018 adductomicsR: A package for detection and quantification of pr
 
 Peer Reviewed
 
+Bhaskaran V, Nowicki MO, Idriss M, Jimenez MA, Lugli G, Hayes JL, Mahmoud AB Zane, Passaro C, Ligon KL, Haas-Kogan D, Bronisz A, Godlewski J, Lawler SE, Chiocca EA, Peruzzi P. Nature Communications. 2019 10(1):442. PMID: 30683859
+
 Thorne JL, Battaglia S, Baxter DE, Hayes JL, Hutchinson SA, Janace S, Millican-Slater RA, Smith L, Teske MC, Wastall LM, Hughes TA. MiR-19b non-canonical binding is directed by HuR and confers chemosensitivity through regulation of P-glycoprotein in breast cancer. BBA - Gene Regulatory Mechanisms. 2018 1861(11). PMID: 30343695 
 
 Mancini A, Xavier-Magalhaes A, Woods WS, Nguyen KT, Amen, AM, Hayes JL, Fellman C, Gapinske M, McKinney AM, Hong C, Jones LE, Walsh KM, Nell RJA, Doudna JA, Costa BM, Song JS, Perez-Pinera P, Costello JF. Disruption of the β1L Isoform of GABP Reverses Glioblastoma Replicative Immortality in a TERT Promoter Mutation-Dependent Manner. Cancer Cell 2018 34(3). PMID: 30205050
