@@ -23,7 +23,7 @@ Professional positions
   
 Research experience
 ======
-School of Public Health, UC Berkeley (Nov 2017 – Present). Advisors Dr. Stephen Rappaport and Dr. Sandrine Dudoit
+School of Public Health, UC Berkeley (Nov 2017 – February 2019). Advisors Dr. Stephen Rappaport and Dr. Sandrine Dudoit
 * Development of bioinformatic and statistical pipelines of LC-MS data for adductomics and metabolomics for cancer specimens.
 
 
