@@ -6,11 +6,13 @@ author_profile: true
 ---
 Preprints
 
-Schiffman et al. 2018 Data-adaptive pipeline for filtering and normalizing metabolomics data. BioRxiv. https://doi.org/10.1101/387365
-
-Hayes et al. 2018 adductomicsR: A package for detection and quantification of protein adducts from mass spectra of tryptic digests. BioRxiv. doi: https://doi.org/10.1101/463331
+Hayes et al. 2018 adductomicsR: A package for detection and quantification of protein adducts from mass spectra of tryptic digests. BioRxiv. doi: https://doi.org/10.1101/463331 Also available on Github https://github.com/JosieLHayes/adductomicsR and in Bioconductor http://www.bioconductor.org/packages/release/bioc/html/adductomicsR.html
 
 Peer Reviewed
+
+Schiffman C, Petrick L, Perttula K, Yano Y, Carlsson H, Whitehead T, Metayer C, Hayes J, Rappaport S, Dudoit S. Filtering procedures for untargeted LC-MS metabolomics data. BMC Bioinformatics. 2019 20(1). PMID: 31200644
+
+Yano Y, Schiffman C, Grigoryan H, Hayes J, Edmands W, Petrick L, Whitehead T, Metayer C, Dudoit S, Rappaport S. Untargeted Adductomics of Newborn Dried Blood Spots Identifies Modifications to Human Serum Albumin Associated with Childhood Leukemia. Leukemia Research. 2019 88:106268. PMID: 31760269
 
 Bhaskaran V, Nowicki MO, Idriss M, Jimenez MA, Lugli G, Hayes JL, Mahmoud AB Zane, Passaro C, Ligon KL, Haas-Kogan D, Bronisz A, Godlewski J, Lawler SE, Chiocca EA, Peruzzi P. Nature Communications. 2019 10(1):442. PMID: 30683859
 
