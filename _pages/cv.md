@@ -17,6 +17,9 @@ Education
 
 Professional positions
 ======
+* February 2019-present
+  * Data Scientist (clinical) at Revolution Medicines
+
 * February 2005-June 2015
   * Clinical scientist in cytogenetics
   * Lead in research development
