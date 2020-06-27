@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Genetics, University of Leeds, 2003
 * M.Res. in Bioinformatics, University of Leeds, 2004
-* Ph.D in Medicine and Health, University of Leeds, 2015
+* Ph.D in Medicine and Health (Computational Biology), University of Leeds, 2015
 
 Professional positions
 ======
