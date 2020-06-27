@@ -17,8 +17,11 @@ Education
 
 Professional positions
 ======
-* February 2019-present
-  * Data Scientist (clinical) at Revolution Medicines
+* August 2019-Present
+  * Senior data Scientist in predictive diagnostics at Revolution Medicines
+  
+* February 2019-August 2019
+  * Data Scientist at Revolution Medicines
 
 * February 2005-June 2015
   * Clinical scientist in cytogenetics
