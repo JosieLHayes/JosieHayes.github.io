@@ -10,9 +10,11 @@ Hayes et al. 2018 adductomicsR: A package for detection and quantification of pr
 
 Peer Reviewed
 
-Schiffman C, Petrick L, Perttula K, Yano Y, Carlsson H, Whitehead T, Metayer C, Hayes J, Rappaport S, Dudoit S. Filtering procedures for untargeted LC-MS metabolomics data. BMC Bioinformatics. 2019 20(1). PMID: 31200644
+Boissinot M, King H, Adams M, Higgins J, Shaw G, Ward TA, Steele LP, Tams D, Morton R, Polson E, da Silva B, Droop A, Hayes JL, Martin H, Laslo P, Morrison E,  Tomlinson DC, Wurdak H, Bond J, Lawler SE & Short SC. Profiling cytotoxic microRNAs in pediatric and adult glioblastoma cells by high-content screening, identification, and validation of miR-1300. Oncogene. 2020 https://doi.org/10.1038/s41388-020-1360-y 
 
-Yano Y, Schiffman C, Grigoryan H, Hayes J, Edmands W, Petrick L, Whitehead T, Metayer C, Dudoit S, Rappaport S. Untargeted Adductomics of Newborn Dried Blood Spots Identifies Modifications to Human Serum Albumin Associated with Childhood Leukemia. Leukemia Research. 2019 88:106268. PMID: 31760269
+Schiffman C, Petrick L, Perttula K, Yano Y, Carlsson H, Whitehead T, Metayer C, Hayes J, Rappaport S, Dudoit S. Filtering procedures for untargeted LC-MS metabolomics data. BMC Bioinformatics. 2019 20(334). PMID: 31200644 https://doi.org/10.1186/s12859-019-2871-9
+
+Yano Y, Schiffman C, Grigoryan H, Hayes J, Edmands W, Petrick L, Whitehead T, Metayer C, Dudoit S, Rappaport S. Untargeted Adductomics of Newborn Dried Blood Spots Identifies Modifications to Human Serum Albumin Associated with Childhood Leukemia. Leukemia Research. 2019 88:106268. PMID: 31760269 https://doi.org/10.1016/j.leukres.2019.106268
 
 Bhaskaran V, Nowicki MO, Idriss M, Jimenez MA, Lugli G, Hayes JL, Mahmoud AB Zane, Passaro C, Ligon KL, Haas-Kogan D, Bronisz A, Godlewski J, Lawler SE, Chiocca EA, Peruzzi P. Nature Communications. 2019 10(1):442. PMID: 30683859
 
