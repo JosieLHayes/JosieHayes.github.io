@@ -90,13 +90,13 @@ Laboratory/bioinformatics Supervision
 Additional relevant activities
 ======
 * Bioinformatics experience - Large dataset analyses of sequencing data, such as: RNA-seq, microarray, DNA methylation, small RNA-seq, copy number variation, fusion detection, single cell sequencing. Tools: Bedtools, Samtools, TopHat, Cufflinks, cutadapt, trimGalore, Kallisto and more.
-* Programming experience - R (strong bkgd), Perl, Python, Linux/Bash (strong bkgd) 
+* Programming experience - R (strong bkgd), Perl, Python, Linux/Bash (strong bkgd)
+* Data Science tools - AWS, Rmarkdown, shiny, mySQL, Spotfire
 * Laboratory experience - library preparation, karyotyping, FISH, laser microdissection, cell culture and transfection, q-PCR, western blot, GFP reporter assays, cloning and more.
-* Management of the Clinical Genetics Departmental Website 2005-2012
+* Management of the Leeds Clinical Genetics Departmental Website at St James's Hospital, UK 2005-2012
 * Collator of information for the UK Down Syndrome Registry 2005-2010
-* Programming experience - R (strong bkgd), Perl, Python (strong bkgd), Linux/Bash (strong bkgd) 
 
-Memberships (Last three years)
+Memberships (Last five years)
 * Association of Clinical Scientists (ACC)
 * British Society of Human Genetics (BSHG)
 * British Association of Cancer Research (BACR)
