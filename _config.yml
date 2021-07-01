@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Josie Hayes"
 title_separator          : "-"
 name                     : &name "Josie Hayes"
-description              : &description "Senior Clinical Data Scientist"
+description              : &description "Associate Director of clinical diagnostics"
 url                      : https://josielhayes.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "josielhayes.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Josie Hayes"
   avatar           : "IMG.jpg"
-  bio              : "Computational Biologist (Postdoctoral and Freelance)"
+  bio              : "Translational medicine strategy"
   location         : "Redwood City, California"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
