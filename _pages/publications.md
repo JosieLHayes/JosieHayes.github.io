@@ -6,6 +6,8 @@ author_profile: true
 ---
 Preprints
 
+Jain S, Rick JW, Joshi R, Beniwal A, Spatz J, Chih-Chieh Chang A, Nguyen AT, Sudhir S, Chandra A, Haddad A, Wadhwa H, Shah SS, Choi S, Hayes JL, Wang L, Yagnik G, Costello JF, Diaz A, Aghi MK. Identification of Cancer-Associated Fibroblasts in Glioblastoma and Defining Their Pro-tumoral Effects. BioRxiv. doi: https://doi.org/10.1101/2021.05.08.443250
+
 Hayes et al. 2018 adductomicsR: A package for detection and quantification of protein adducts from mass spectra of tryptic digests. BioRxiv. doi: https://doi.org/10.1101/463331 Also available on Github https://github.com/JosieLHayes/adductomicsR and in Bioconductor http://www.bioconductor.org/packages/release/bioc/html/adductomicsR.html
 
 Peer Reviewed
